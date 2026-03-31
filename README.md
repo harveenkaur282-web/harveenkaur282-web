@@ -37,7 +37,6 @@ I'm an B.Tech CSE(honours in AI/ML) student at Amity University, Noida, passiona
 | Project | Description | Tech |
 |---|---|---|
 | [Semantic Scene Segmentation](https://github.com/harveenkaur282-web/Semantic-Scene-Segmentation) | Deep learning model for pixel-level scene understanding | Python, Jupyter |
-| [Disease Prediction](https://github.com/harveenkaur282-web/Disease-prediction) | Survival probability estimator using Bayes' Theorem on hospital data | Python |
 | [Aadhaar Data Analysis](https://github.com/harveenkaur282-web/Aadhar-card-dataAnalysis-UAIDI-Hackathon-project) | Hackathon project analyzing UIDAI dataset patterns | Python, Jupyter |
 
 ---
