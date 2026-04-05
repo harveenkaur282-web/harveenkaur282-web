@@ -45,8 +45,6 @@ I'm an B.Tech CSE(honours in AI/ML) student at Amity University, Noida, passiona
 
 <div align="center">
 
-![Harveen's GitHub streak](https://streak-stats.demolab.com?user=harveenkaur282-web&theme=default&hide_border=true)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harveenkaur282-web&theme=minimal&hide_border=true)
 
 </div>
