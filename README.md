@@ -5,12 +5,6 @@
 # Harveen Kaur
 
 **Aspiring AI/ML Engineer · Amity University, Noida**
-
-[![GitHub followers](https://img.shields.io/github/followers/harveenkaur282-web?style=flat&color=black&labelColor=white&label=followers)](https://github.com/harveenkaur282-web?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/harveenkaur282-web?style=flat&color=black&labelColor=white&label=total%20stars)](https://github.com/harveenkaur282-web)
-
-</div>
-
 ---
 
 ### About
