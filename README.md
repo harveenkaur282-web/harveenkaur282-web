@@ -10,7 +10,8 @@
 ### About
 
 I'm a B.Tech CSE(honours in AI/ML) student at Amity University, Noida, passionate about building intelligent systems and contributing to open source. My work spans machine learning, computer vision, and data analysis.
-
+Currently participating in open source programs- GSSOC
+AND doing time series analysis program 2026 iitg
 ---
 ### LinkedIn profile
 www.linkedin.com/in/harveen-kaur-ab8347355 
