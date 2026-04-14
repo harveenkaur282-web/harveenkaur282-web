@@ -21,7 +21,7 @@ www.linkedin.com/in/harveen-kaur-ab8347355
 ### Tech Stack
 
 **Languages**
-`Python` `SQL` `JavaScript`
+`Python` `SQL` `JavaScript` `C++` `Java`
 
 **ML / Data**
 `scikit-learn` `TensorFlow` `Keras` `NumPy` `Pandas` `Matplotlib` `Seaborn`
