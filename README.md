@@ -18,6 +18,7 @@ AND doing time series analysis program 2026 iitg
 ---
 ### LinkedIn profile
 www.linkedin.com/in/harveen-kaur-ab8347355 
+
 ### Tech Stack
 
 **Languages**
@@ -31,7 +32,7 @@ www.linkedin.com/in/harveen-kaur-ab8347355
 
 ---
 
-### Featured Projects
+### Small Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -39,6 +40,9 @@ www.linkedin.com/in/harveen-kaur-ab8347355
 | [Aadhaar Data Analysis](https://github.com/harveenkaur282-web/Aadhar-card-dataAnalysis-UAIDI-Hackathon-project) | Hackathon project analyzing UIDAI dataset patterns | Python, Data analysis |
 | [Chihuahua-vs-Muffin-Classification-3LC](https://github.com/harveenkaur282-web/Chihuahua-vs-Muffin-Classification-3LC) | A binary image classifier built with ResNet-18 + 3LC for data-centric, human-in-the-loop iterative retraining | Python, PyTorch, ResNet, 3LC, Computer Vision, Kaggle
 ---
+### MAIN PROJECTS
+working on main projects
+1. Multi-agent Explainable AI for Biomedical hypothesis Analysis with RL based Rnaking and Quantum-Classical comparison
 
 ## 🔀 Open Source Contributions
 <!-- OSS_CONTRIBUTIONS_START -->
