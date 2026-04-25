@@ -40,6 +40,10 @@ www.linkedin.com/in/harveen-kaur-ab8347355
 | [Chihuahua-vs-Muffin-Classification-3LC](https://github.com/harveenkaur282-web/Chihuahua-vs-Muffin-Classification-3LC) | A binary image classifier built with ResNet-18 + 3LC for data-centric, human-in-the-loop iterative retraining | Python, PyTorch, ResNet, 3LC, Computer Vision, Kaggle
 ---
 
+## 🔀 Open Source Contributions
+<!-- oss-contributions-start -->
+<!-- oss-contributions-end -->
+
 ### GitHub Stats
 
 <div align="center">
