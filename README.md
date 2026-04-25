@@ -41,9 +41,8 @@ www.linkedin.com/in/harveen-kaur-ab8347355
 ---
 
 ## 🔀 Open Source Contributions
-<!-- oss-contributions-start -->
-<!-- oss-contributions-end -->
-
+<!-- OSS_CONTRIBUTIONS_START -->
+<!-- OSS_CONTRIBUTIONS_END -->
 ### GitHub Stats
 
 <div align="center">
