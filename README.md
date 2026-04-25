@@ -42,6 +42,28 @@ www.linkedin.com/in/harveen-kaur-ab8347355
 
 ## 🔀 Open Source Contributions
 <!-- OSS_CONTRIBUTIONS_START -->
+
+## Open-Source Contributions
+
+**[CinderPeak](https://github.com/SharonIV0x86/CinderPeak) (CinderPeak is a fast and efficient, open-source C++ graph library designed to handle directed, undirected, and mixed graphs with customizable vertex and edge types.)**
+
+* [#195](https://github.com/SharonIV0x86/CinderPeak/pull/195): Increment 5: fix files producing warnings (#190)
+* [#188](https://github.com/SharonIV0x86/CinderPeak/pull/188): Increment 3: fix warnings in files
+* [#187](https://github.com/SharonIV0x86/CinderPeak/pull/187): fix(warnings): Increment 1. Fix Files producing warnings.
+
+**[SOUL_SENSE_EXAM](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM) (A questionnare that focuses on user's emotional health and store their results)**
+
+* [#144](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM/pull/144): Implement age-based randomized question selection with no-repeat logic
+
+**[StudyPlan](https://github.com/Charushi06/StudyPlan)**
+
+* [#50](https://github.com/Charushi06/StudyPlan/pull/50): feat: add lightweight NLP module for date extraction from raw text (closes #15) NSoC'26
+
+**[VYOM](https://github.com/Th-Shivam/VYOM) (VYOM (Virtual Yet Omnipotent Machine) is a futuristic AI-powered personal assistant , inspired by J.A.R.V.I.S. from Iron Man.  Designed to simplify your digital life, VYOM uses advanced language models and browser automation to handle complex tasks with simple voice or text commands.)**
+
+* [#42](https://github.com/Th-Shivam/VYOM/pull/42): Centralize configuration for model names and file paths, issue #33 
+
+
 <!-- OSS_CONTRIBUTIONS_END -->
 ### GitHub Stats
 
