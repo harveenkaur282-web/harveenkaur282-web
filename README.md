@@ -42,7 +42,7 @@ www.linkedin.com/in/harveen-kaur-ab8347355
 ---
 ### MAIN PROJECTS
 working on main projects
-1. Multi-agent Explainable AI for Biomedical hypothesis Analysis with RL based Rnaking and Quantum-Classical comparison
+1. Multi-agent Explainable AI for Biomedical hypothesis Analysis with RL based Ranking and Quantum-Classical comparison
 
 
 <!-- OSS_CONTRIBUTIONS_START -->
