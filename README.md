@@ -28,7 +28,7 @@ www.linkedin.com/in/harveen-kaur-ab8347355
 `scikit-learn` `TensorFlow` `Keras` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
 **Tools & Platforms**
-`Jupyter Notebook` `Git` `GitHub` `VS Code`
+`Jupyter Notebook` `Git` `GitHub` `VS Code` `3LC`
 
 ---
 
