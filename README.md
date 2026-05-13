@@ -45,8 +45,9 @@ working on main projects
 1. Multi-agent Explainable AI for Biomedical hypothesis Analysis with RL based Ranking and Quantum-Classical comparison
    https://github.com/harveenkaur282-web/Multi-Agent-XAI-for-Biomedical-Hypothesis-Analysis-with-RL-Ranking-Quantum-Classical-Comparison
    
-
-
+2. Data-driven stock analysis using time series models on StockGro
+   https://github.com/harveenkaur282-web/time-series-stock-analysis
+   
 <!-- OSS_CONTRIBUTIONS_START -->
 
 ## Open-Source Contributions
