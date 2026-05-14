@@ -37,7 +37,7 @@ www.linkedin.com/in/harveen-kaur-ab8347355
 | Project | Description | Tech |
 |---|---|---|
 | [Semantic Scene Segmentation](https://github.com/harveenkaur282-web/Semantic-Scene-Segmentation) | Deep learning model-segformer b2- architecture for pixel-level scene understanding | Python, transformers |
-| [Aadhaar Data Analysis](https://github.com/harveenkaur282-web/Aadhar-card-dataAnalysis-UAIDI-Hackathon-project) | Hackathon project analyzing UIDAI dataset patterns | Python, Data analysis |
+| [Aadhaar Data Analysis] (https://github.com/akaSakshi/Aadhar-card-dataAnalysis-UAIDI-Hackathon-project) | Hackathon project analyzing UIDAI dataset patterns | Python, Data analysis |
 | [Chihuahua-vs-Muffin-Classification-3LC](https://github.com/harveenkaur282-web/Chihuahua-vs-Muffin-Classification-3LC) | A binary image classifier built with ResNet-18 + 3LC for data-centric, human-in-the-loop iterative retraining | Python, PyTorch, ResNet, 3LC, Computer Vision, Kaggle
 ---
 ### MAIN PROJECTS
