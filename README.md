@@ -58,6 +58,12 @@ working on main projects
 * [#188](https://github.com/SharonIV0x86/CinderPeak/pull/188): Increment 3: fix warnings in files
 * [#187](https://github.com/SharonIV0x86/CinderPeak/pull/187): fix(warnings): Increment 1. Fix Files producing warnings.
 
+**[National-weather-intelligence](https://github.com/Team-Cerevia/National-weather-intelligence) (National Weather Big Data Analytics Platform: real-time weather-event fusion and verification )**
+
+* [#4](https://github.com/Team-Cerevia/National-weather-intelligence/pull/4): docs: split Track D into Track D1 (Backend) & Track D2 (Frontend), ad…
+* [#2](https://github.com/Team-Cerevia/National-weather-intelligence/pull/2): adding folders
+* [#1](https://github.com/Team-Cerevia/National-weather-intelligence/pull/1): adding files for all feature branches+ weather contract they need to …
+
 **[SOUL_SENSE_EXAM](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM) (A questionnare that focuses on user's emotional health and store their results)**
 
 * [#144](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM/pull/144): Implement age-based randomized question selection with no-repeat logic
