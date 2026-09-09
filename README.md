@@ -4,7 +4,7 @@
 
 # Harveen Kaur
 
-**Aspiring AI/ML Engineer · Amity University, Noida**
+**Aspiring AI Engineer**
 ---
 
 ### About
