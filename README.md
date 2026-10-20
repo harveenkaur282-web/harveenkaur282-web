@@ -1,47 +1,46 @@
-## Hi there 
-
 <div align="center">
 
-# Harveen Kaur
----
+# Hi, I'm Harveen Kaur 👋
 
-### About
+**B.Tech CSE (AI/ML) | Amity University, Noida (2024–2028)**
 
-I'm a B.Tech CSE(honours in AI/ML) student at Amity University, Noida, passionate about building intelligent systems and contributing to open source. My work spans machine learning, computer vision, and data analysis.
+Building practical AI systems across **LLM applications, RAG, computer vision, and machine learning**.
 
----
-### LinkedIn profile
-www.linkedin.com/in/harveen-kaur-ab8347355 
+[LinkedIn](https://www.linkedin.com/in/harveen-kaur-ab8347355) · [GitHub Repositories](https://github.com/harveenkaur282-web?tab=repositories)
 
-### Tech Stack
-
-**Languages**
-`Python` `SQL` `JavaScript` `C++` `Java`
-
-**ML / Data**
-`scikit-learn` `TensorFlow` `Keras` `NumPy` `Pandas` `Matplotlib` `Seaborn`
-
-**Tools & Platforms**
-`Jupyter Notebook` `Git` `GitHub` `VS Code` `3LC`
+</div>
 
 ---
 
-### Small Projects
+## About
 
-| Project | Description | Tech |
+I'm a Computer Science undergraduate focused on turning ML/AI concepts into working, well-documented software. I enjoy experimenting with deep learning, retrieval systems, model evaluation, and agentic applications—and contributing to open-source projects.
+
+**Currently interested in:** AI/ML Engineering · LLM/RAG Engineering · Applied Research · ML Systems
+
+## Featured Projects
+
+| Project | What it does | Technologies |
 |---|---|---|
-| [Semantic Scene Segmentation](https://github.com/harveenkaur282-web/Semantic-Scene-Segmentation) | Deep learning model-segformer b2- architecture for pixel-level scene understanding | Python, transformers |
-| [Aadhaar Data Analysis](https://github.com/akaSakshi/Aadhar-card-dataAnalysis-UAIDI-Hackathon-project) | Hackathon project analyzing UIDAI dataset patterns | Python, Data analysis |
-| [Chihuahua-vs-Muffin-Classification-3LC](https://github.com/harveenkaur282-web/Chihuahua-vs-Muffin-Classification-3LC) | A binary image classifier built with ResNet-18 + 3LC for data-centric, human-in-the-loop iterative retraining | Python, PyTorch, ResNet, 3LC, Computer Vision, Kaggle
----
-### MAIN PROJECTS
-working on main projects
-1. Multi-agent Explainable AI for Biomedical hypothesis Analysis with RL based Ranking and Quantum-Classical comparison
-   https://github.com/harveenkaur282-web/Multi-Agent-XAI-for-Biomedical-Hypothesis-Analysis-with-RL-Ranking-Quantum-Classical-Comparison
-   
-2. Data-driven stock analysis using time series models on StockGro
-   https://github.com/harveenkaur282-web/time-series-stock-analysis
-   
+| [RepoMind AI](https://github.com/harveenkaur282-web/RepoMind-AI) | A local-first tool for indexing, searching, and discussing codebases with retrieval-augmented generation. Uses local ONNX embeddings and reranking, Docker, and an LLM provider abstraction. | Python, RAG, ONNX, Docker |
+| [Off-Road Semantic Scene Segmentation](https://github.com/harveenkaur282-web/Semantic-Scene-Segmentation) | Fine-tunes SegFormer-B2 for pixel-level terrain segmentation; experiments with staged training, test-time augmentation, and CRF post-processing. Reported test mIoU: **0.5155**. | PyTorch, Hugging Face Transformers, SegFormer |
+| [Time-Series Stock Analysis](https://github.com/harveenkaur282-web/Data-Driven-Stock-Analysis-using-Time-Series-Models-on-StockGro) | End-to-end NSE stock analysis and forecasting pipeline comparing statistical and deep-learning models, with volatility analysis, portfolio construction, and a deployed dashboard. | Python, ARIMA, Prophet, LSTM, GRU, Transformers |
+| [Customer Support Chatbot — Bedrock AgentCore](https://github.com/harveenkaur282-web/Customer-Support-Chatbot-with-Amazon-Bedrock-AgentCore) | Multi-turn support assistant with prompt-based routing, bug-report collection, and a Lambda-backed ticket-creation tool. | Amazon Bedrock AgentCore, Lambda, DynamoDB |
+| [Chihuahua vs Muffin Classification](https://github.com/harveenkaur282-web/Chihuahua-vs-Muffin-Classification-3LC) | ResNet-18 image-classification workflow with 3LC for dataset visualization, embedding analysis, and data curation. | PyTorch, ResNet-18, 3LC |
+| [Agentic AI for Construction Safety](https://github.com/harveenkaur282-web/Agentic_AI_for_Safety_Monitoring_with_construction_Risk_analytics) | Internship project exploring agentic AI for construction-site safety monitoring and risk analytics. | Python, AI agents |
+
+## Technical Skills
+
+- **Languages:** Python, C++, SQL, Java
+- **Machine Learning:** scikit-learn, PyTorch, TensorFlow/Keras, NumPy, pandas
+- **LLM Engineering:** RAG, embeddings, vector search, reranking, LLM APIs, agentic workflows
+- **Computer Vision:** Transformers, semantic segmentation, image classification, model evaluation
+- **Tools:** Git/GitHub, Docker, Linux, Jupyter, Streamlit, FastAPI
+
+## Open Source
+
+I contribute to community projects through issue fixes, documentation, and feature work. Selected contributions are listed below.
+
 <!-- OSS_CONTRIBUTIONS_START -->
 
 ## Open-Source Contributions
