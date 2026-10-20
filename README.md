@@ -16,7 +16,7 @@ AI/ML undergraduate building and evaluating **retrieval systems, deep-learning m
 
 I'm a Computer Science undergraduate focused on turning ML/AI concepts into working, well-documented software. I enjoy experimenting with deep learning, retrieval systems, model evaluation, and agentic applications—and contributing to open-source projects.
 
-**Currently interested in:** AI/ML Engineering · LLM/RAG Engineering · Applied Research · ML Systems
+**Currently interested in:** AI/ML Engineering · LLM/RAG Engineering · Cloud Engineering · Cloud AI · Applied Research
 
 ## Featured Projects
 
@@ -26,6 +26,7 @@ I'm a Computer Science undergraduate focused on turning ML/AI concepts into work
 | [Off-Road Semantic Scene Segmentation](https://github.com/harveenkaur282-web/Semantic-Scene-Segmentation) | Fine-tunes SegFormer-B2 for pixel-level terrain segmentation; experiments with staged training, test-time augmentation, and CRF post-processing. Reported test mIoU: **0.5155**. | PyTorch, Hugging Face Transformers, SegFormer |
 | [Time-Series Stock Analysis](https://github.com/harveenkaur282-web/Data-Driven-Stock-Analysis-using-Time-Series-Models-on-StockGro) | End-to-end NSE stock analysis and forecasting pipeline comparing statistical and deep-learning models, with volatility analysis, portfolio construction, and a deployed dashboard. | Python, ARIMA, Prophet, LSTM, GRU, Transformers |
 | [Customer Support Chatbot — Bedrock AgentCore](https://github.com/harveenkaur282-web/Customer-Support-Chatbot-with-Amazon-Bedrock-AgentCore) | Multi-turn support assistant with prompt-based routing, bug-report collection, and Lambda-backed ticket creation. Its README records evaluation scores of 1.00 on the baseline suite and 0.75 on an extended edge-case suite. | Amazon Bedrock AgentCore, Lambda, DynamoDB |
+| [AWS Proof-of-Work Portfolio](https://github.com/harveenkaur282-web/AWS_proof_of_work_portfolio) | A curated index of AWS projects covering S3 + CloudFront hosting, Lambda + Polly text-to-speech, Bedrock AgentCore support automation, and cloud-AI learning work. | AWS, IAM, Lambda, S3, CloudFront, CloudWatch, Bedrock |
 | [CloudCart — Cloud-Native Microservices](https://github.com/harveenkaur282-web/cloud-native-microservices-app) | E-commerce platform with a Next.js dashboard, FastAPI gateway, four domain microservices, PostgreSQL database-per-service, Docker Compose, and Kubernetes/NGINX Ingress deployment manifests. | Python, FastAPI, PostgreSQL, Docker, Kubernetes, Next.js |
 
 ## Technical Skills
@@ -34,7 +35,7 @@ I'm a Computer Science undergraduate focused on turning ML/AI concepts into work
 - **Machine Learning:** scikit-learn, PyTorch, TensorFlow/Keras, NumPy, pandas
 - **LLM Engineering:** RAG, embeddings, vector search, reranking, LLM APIs, agentic workflows
 - **Computer Vision:** Transformers, semantic segmentation, image classification, model evaluation
-- **Tools:** Git/GitHub, Docker, Linux, Jupyter, Streamlit, FastAPI
+- **Cloud & Tools:** AWS (S3, CloudFront, Lambda, IAM, CloudWatch, Bedrock/AgentCore), Docker, Kubernetes, Linux, Git/GitHub, Jupyter, Streamlit, FastAPI
 
 ## Open Source
 
