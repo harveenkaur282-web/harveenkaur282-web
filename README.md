@@ -4,7 +4,7 @@
 
 **B.Tech CSE (AI/ML) | Amity University, Noida (2024–2028)**
 
-Building practical AI systems across **LLM applications, RAG, computer vision, and machine learning**.
+AI/ML undergraduate building and evaluating **retrieval systems, deep-learning models, and practical AI applications**.
 
 [LinkedIn](https://www.linkedin.com/in/harveen-kaur-ab8347355) · [GitHub Repositories](https://github.com/harveenkaur282-web?tab=repositories)
 
@@ -22,10 +22,10 @@ I'm a Computer Science undergraduate focused on turning ML/AI concepts into work
 
 | Project | What it does | Technologies |
 |---|---|---|
-| [RepoMind AI](https://github.com/harveenkaur282-web/RepoMind-AI) | A local-first tool for indexing, searching, and discussing codebases with retrieval-augmented generation. Uses local ONNX embeddings and reranking, Docker, and an LLM provider abstraction. | Python, RAG, ONNX, Docker |
+| [RepoMind AI](https://github.com/harveenkaur282-web/RepoMind-AI) | A local-first codebase Q&A workspace with BM25 + dense retrieval, ONNX embeddings and reranking, FastAPI, Streamlit, and Docker. Includes offline evaluation datasets and benchmark scripts. | Python, RAG, pgvector, ONNX, FastAPI, Docker |
 | [Off-Road Semantic Scene Segmentation](https://github.com/harveenkaur282-web/Semantic-Scene-Segmentation) | Fine-tunes SegFormer-B2 for pixel-level terrain segmentation; experiments with staged training, test-time augmentation, and CRF post-processing. Reported test mIoU: **0.5155**. | PyTorch, Hugging Face Transformers, SegFormer |
 | [Time-Series Stock Analysis](https://github.com/harveenkaur282-web/Data-Driven-Stock-Analysis-using-Time-Series-Models-on-StockGro) | End-to-end NSE stock analysis and forecasting pipeline comparing statistical and deep-learning models, with volatility analysis, portfolio construction, and a deployed dashboard. | Python, ARIMA, Prophet, LSTM, GRU, Transformers |
-| [Customer Support Chatbot — Bedrock AgentCore](https://github.com/harveenkaur282-web/Customer-Support-Chatbot-with-Amazon-Bedrock-AgentCore) | Multi-turn support assistant with prompt-based routing, bug-report collection, and a Lambda-backed ticket-creation tool. | Amazon Bedrock AgentCore, Lambda, DynamoDB |
+| [Customer Support Chatbot — Bedrock AgentCore](https://github.com/harveenkaur282-web/Customer-Support-Chatbot-with-Amazon-Bedrock-AgentCore) | Multi-turn support assistant with prompt-based routing, bug-report collection, and Lambda-backed ticket creation. Its README records evaluation scores of 1.00 on the baseline suite and 0.75 on an extended edge-case suite. | Amazon Bedrock AgentCore, Lambda, DynamoDB |
 | [Chihuahua vs Muffin Classification](https://github.com/harveenkaur282-web/Chihuahua-vs-Muffin-Classification-3LC) | ResNet-18 image-classification workflow with 3LC for dataset visualization, embedding analysis, and data curation. | PyTorch, ResNet-18, 3LC |
 | [Agentic AI for Construction Safety](https://github.com/harveenkaur282-web/Agentic_AI_for_Safety_Monitoring_with_construction_Risk_analytics) | Internship project exploring agentic AI for construction-site safety monitoring and risk analytics. | Python, AI agents |
 
