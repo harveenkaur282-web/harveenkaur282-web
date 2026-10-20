@@ -16,7 +16,7 @@ AI/ML undergraduate building and evaluating **retrieval systems, deep-learning m
 
 I'm a Computer Science undergraduate focused on turning ML/AI concepts into working, well-documented software. I enjoy experimenting with deep learning, retrieval systems, model evaluation, and agentic applications—and contributing to open-source projects.
 
-**Currently interested in:** AI/ML Engineering · LLM/RAG Engineering · Cloud Engineering · Cloud AI · Applied Research
+**Currently interested in:** AI/ML Engineering · LLM/RAG Engineering · Cloud Engineering · AWS · Applied Research
 
 ## Featured Projects
 
