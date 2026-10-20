@@ -27,7 +27,6 @@ I'm a Computer Science undergraduate focused on turning ML/AI concepts into work
 | [Time-Series Stock Analysis](https://github.com/harveenkaur282-web/Data-Driven-Stock-Analysis-using-Time-Series-Models-on-StockGro) | End-to-end NSE stock analysis and forecasting pipeline comparing statistical and deep-learning models, with volatility analysis, portfolio construction, and a deployed dashboard. | Python, ARIMA, Prophet, LSTM, GRU, Transformers |
 | [Customer Support Chatbot — Bedrock AgentCore](https://github.com/harveenkaur282-web/Customer-Support-Chatbot-with-Amazon-Bedrock-AgentCore) | Multi-turn support assistant with prompt-based routing, bug-report collection, and Lambda-backed ticket creation. Its README records evaluation scores of 1.00 on the baseline suite and 0.75 on an extended edge-case suite. | Amazon Bedrock AgentCore, Lambda, DynamoDB |
 | [CloudCart — Cloud-Native Microservices](https://github.com/harveenkaur282-web/cloud-native-microservices-app) | E-commerce platform with a Next.js dashboard, FastAPI gateway, four domain microservices, PostgreSQL database-per-service, Docker Compose, and Kubernetes/NGINX Ingress deployment manifests. | Python, FastAPI, PostgreSQL, Docker, Kubernetes, Next.js |
-| [Agentic AI for Construction Safety](https://github.com/harveenkaur282-web/Agentic_AI_for_Safety_Monitoring_with_construction_Risk_analytics) | Internship project exploring agentic AI for construction-site safety monitoring and risk analytics. | Python, AI agents |
 
 ## Technical Skills
 
