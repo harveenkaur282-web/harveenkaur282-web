@@ -4,7 +4,7 @@
 
 **B.Tech CSE (AI/ML) | Amity University, Noida (2024–2028)**
 
-Aspiring AI/ML engineer building practical machine-learning systems, retrieval-based AI applications, and cloud-enabled projects. I also contribute to open-source software and enjoy improving projects through experimentation, evaluation, and documentation.
+Aspiring AI/ML engineer building practical machine-learning systems, retrieval-based AI applications, and AWS projects. I also contribute to open-source software and enjoy improving projects through experimentation, evaluation, and documentation.
 
 [LinkedIn](https://www.linkedin.com/in/harveen-k-ab8347355) · [GitHub Repositories](https://github.com/harveenkaur282-web?tab=repositories)
 
@@ -16,7 +16,7 @@ Aspiring AI/ML engineer building practical machine-learning systems, retrieval-b
 
 I'm a Computer Science undergraduate focused on turning AI/ML concepts into working, well-documented software. My interests include deep learning, computer vision, LLM applications, retrieval-augmented generation (RAG), model evaluation, and deploying applications with cloud and developer tools.
 
-**Currently interested in:** AI/ML Engineering · LLM/RAG Engineering · Cloud Engineering · AWS · Applied Research · Open Source
+**Currently interested in:** AI/ML Engineering · LLM/RAG Engineering · AWS · Applied Research · Open Source
 
 ## Featured Projects
 
