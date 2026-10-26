@@ -43,29 +43,32 @@ I contribute to community projects through issue fixes, documentation, and featu
 
 <!-- OSS_CONTRIBUTIONS_START -->
 
-**[CinderPeak](https://github.com/SharonIV0x86/CinderPeak)** — An open-source C++ graph library.
+## Open-Source Contributions
 
-- [#195](https://github.com/SharonIV0x86/CinderPeak/pull/195): Increment 5: fix files producing warnings (#190)
-- [#188](https://github.com/SharonIV0x86/CinderPeak/pull/188): Increment 3: fix warnings in files
-- [#187](https://github.com/SharonIV0x86/CinderPeak/pull/187): fix(warnings): Increment 1. Fix Files producing warnings.
+**[CinderPeak](https://github.com/SharonIV0x86/CinderPeak) (CinderPeak is a fast and efficient, open-source C++ graph library designed to handle directed, undirected, and mixed graphs with customizable vertex and edge types.)**
 
-**[National-weather-intelligence](https://github.com/Team-Cerevia/National-weather-intelligence)** — Weather-event fusion and verification platform.
+* [#195](https://github.com/SharonIV0x86/CinderPeak/pull/195): Increment 5: fix files producing warnings (#190)
+* [#188](https://github.com/SharonIV0x86/CinderPeak/pull/188): Increment 3: fix warnings in files
+* [#187](https://github.com/SharonIV0x86/CinderPeak/pull/187): fix(warnings): Increment 1. Fix Files producing warnings.
 
-- [#4](https://github.com/Team-Cerevia/National-weather-intelligence/pull/4): Split Track D into backend and frontend tracks
-- [#2](https://github.com/Team-Cerevia/National-weather-intelligence/pull/2): Add folders
-- [#1](https://github.com/Team-Cerevia/National-weather-intelligence/pull/1): Add files for feature branches and weather contract
+**[National-weather-intelligence](https://github.com/Team-Cerevia/National-weather-intelligence) (National Weather Big Data Analytics Platform: real-time weather-event fusion and verification )**
 
-**[SOUL_SENSE_EXAM](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM)**
+* [#4](https://github.com/Team-Cerevia/National-weather-intelligence/pull/4): docs: split Track D into Track D1 (Backend) & Track D2 (Frontend), ad…
+* [#2](https://github.com/Team-Cerevia/National-weather-intelligence/pull/2): adding folders
+* [#1](https://github.com/Team-Cerevia/National-weather-intelligence/pull/1): adding files for all feature branches+ weather contract they need to …
 
-- [#144](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM/pull/144): Implement age-based randomized question selection with no-repeat logic
+**[SOUL_SENSE_EXAM](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM) (A questionnare that focuses on user's emotional health and store their results)**
+
+* [#144](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM/pull/144): Implement age-based randomized question selection with no-repeat logic
 
 **[StudyPlan](https://github.com/Charushi06/StudyPlan)**
 
-- [#50](https://github.com/Charushi06/StudyPlan/pull/50): Add lightweight NLP module for date extraction from raw text
+* [#50](https://github.com/Charushi06/StudyPlan/pull/50): feat: add lightweight NLP module for date extraction from raw text (closes #15) NSoC'26
 
-**[VYOM](https://github.com/Th-Shivam/VYOM)**
+**[VYOM](https://github.com/Th-Shivam/VYOM) (VYOM (Virtual Yet Omnipotent Machine) is a futuristic AI-powered personal assistant , inspired by J.A.R.V.I.S. from Iron Man.  Designed to simplify your digital life, VYOM uses advanced language models and browser automation to handle complex tasks with simple voice or text commands.)**
 
-- [#42](https://github.com/Th-Shivam/VYOM/pull/42): Centralize configuration for model names and file paths
+* [#42](https://github.com/Th-Shivam/VYOM/pull/42): Centralize configuration for model names and file paths, issue #33 
+
 
 <!-- OSS_CONTRIBUTIONS_END -->
 
