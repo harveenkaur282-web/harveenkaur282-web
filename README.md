@@ -17,7 +17,6 @@ I build practical AI systems and software, from RAG and agentic applications to 
 | Project | What it does | Technologies |
 |---|---|---|
 | [RepoMind AI](https://github.com/harveenkaur282-web/RepoMind-AI) | Local-first codebase Q&A workspace with BM25 + dense retrieval, ONNX embeddings/reranking, FastAPI, Streamlit, Docker and evaluation scripts. | Python, RAG, ONNX, FastAPI, Docker |
-| [Biomedical QA & Multi-Agent XAI](https://github.com/harveenkaur282-web/Multi-agent-xai-biomedical-hypothesis-analysis-system) | Research-oriented biomedical question-answering system exploring evidence retrieval and explainable multi-agent workflows. | Python, RAG, NLP, XAI |
 | [CloudCart — Cloud-Native Microservices](https://github.com/harveenkaur282-web/cloud-native-microservices-app) | E-commerce platform with a FastAPI gateway, domain microservices, PostgreSQL database-per-service, Docker Compose and Kubernetes/NGINX Ingress. | Python, FastAPI, PostgreSQL, Docker, Kubernetes |
 | [Time-Series Stock Analysis](https://github.com/harveenkaur282-web/Data-Driven-Stock-Analysis-using-Time-Series-Models-on-StockGro) | NSE stock analysis and forecasting pipeline comparing statistical and deep-learning models, with volatility analysis, portfolio construction and a dashboard. | Python, ARIMA, Prophet, LSTM, GRU, Transformers |
 
