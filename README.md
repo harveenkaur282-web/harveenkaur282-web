@@ -4,71 +4,77 @@
 
 **B.Tech CSE (AI/ML) | Amity University, Noida (2024–2028)**
 
-Aspiring AI/ML engineer building practical machine-learning systems, retrieval-based AI applications, and AWS projects. I also contribute to open-source software and enjoy improving projects through experimentation, evaluation, and documentation.
+I build practical AI systems and software, from RAG and agentic applications to deep-learning projects and cloud deployments. Currently exploring **AI/ML Engineering, Software Engineering, and AWS Cloud/Cloud-AI**.
 
-[LinkedIn](https://www.linkedin.com/in/harveen-k-ab8347355) · [GitHub Repositories](https://github.com/harveenkaur282-web?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/harveen-k-ab8347355) · [GitHub Repositories](https://github.com/harveenkaur282-web?tab=repositories) · [AWS Portfolio](https://github.com/harveenkaur282-web/AWS_proof_of_work_portfolio)
 
 </div>
 
 ---
 
-## About
-
-I'm a Computer Science undergraduate focused on turning AI/ML concepts into working, well-documented software. My interests include deep learning, computer vision, LLM applications, retrieval-augmented generation (RAG), model evaluation, and deploying applications with cloud and developer tools.
-
-**Currently interested in:** AI/ML Engineering · LLM/RAG Engineering · AWS · Applied Research · Open Source
-
-## Featured Projects
+## Main SDE & AI Engineering Projects
 
 | Project | What it does | Technologies |
 |---|---|---|
-| [RepoMind AI](https://github.com/harveenkaur282-web/RepoMind-AI) | A local-first codebase Q&A workspace with BM25 + dense retrieval, ONNX embeddings and reranking, FastAPI, Streamlit, and Docker. Includes offline evaluation datasets and benchmark scripts. | Python, RAG, pgvector, ONNX, FastAPI, Docker |
-| [Off-Road Semantic Scene Segmentation](https://github.com/harveenkaur282-web/Semantic-Scene-Segmentation) | Fine-tunes SegFormer-B2 for pixel-level terrain segmentation; experiments with staged training, test-time augmentation, and CRF post-processing. Reported test mIoU: **0.5155**. | PyTorch, Hugging Face Transformers, SegFormer |
-| [Time-Series Stock Analysis](https://github.com/harveenkaur282-web/Data-Driven-Stock-Analysis-using-Time-Series-Models-on-StockGro) | End-to-end NSE stock analysis and forecasting pipeline comparing statistical and deep-learning models, with volatility analysis, portfolio construction, and a dashboard. | Python, ARIMA, Prophet, LSTM, GRU, Transformers |
-| [Customer Support Chatbot — Bedrock AgentCore](https://github.com/harveenkaur282-web/Customer-Support-Chatbot-with-Amazon-Bedrock-AgentCore) | Multi-turn support assistant with prompt-based routing, bug-report collection, and Lambda-backed ticket creation. Its README records evaluation scores of 1.00 on the baseline suite and 0.75 on an extended edge-case suite. | Amazon Bedrock AgentCore, Lambda, DynamoDB |
-| [AWS Proof-of-Work Portfolio](https://github.com/harveenkaur282-web/AWS_proof_of_work_portfolio) | A curated index of AWS projects covering S3 + CloudFront hosting, Lambda + Polly text-to-speech, Bedrock AgentCore support automation, and cloud-AI learning work. | AWS, IAM, Lambda, S3, CloudFront, CloudWatch, Bedrock |
-| [CloudCart — Cloud-Native Microservices](https://github.com/harveenkaur282-web/cloud-native-microservices-app) | E-commerce platform with a Next.js dashboard, FastAPI gateway, four domain microservices, PostgreSQL database-per-service, Docker Compose, and Kubernetes/NGINX Ingress deployment manifests. | Python, FastAPI, PostgreSQL, Docker, Kubernetes, Next.js |
+| [RepoMind AI](https://github.com/harveenkaur282-web/RepoMind-AI) | Local-first codebase Q&A workspace with BM25 + dense retrieval, ONNX embeddings/reranking, FastAPI, Streamlit, Docker and evaluation scripts. | Python, RAG, ONNX, FastAPI, Docker |
+| [Biomedical QA & Multi-Agent XAI](https://github.com/harveenkaur282-web/Multi-agent-xai-biomedical-hypothesis-analysis-system) | Research-oriented biomedical question-answering system exploring evidence retrieval and explainable multi-agent workflows. | Python, RAG, NLP, XAI |
+| [CloudCart — Cloud-Native Microservices](https://github.com/harveenkaur282-web/cloud-native-microservices-app) | E-commerce platform with a FastAPI gateway, domain microservices, PostgreSQL database-per-service, Docker Compose and Kubernetes/NGINX Ingress. | Python, FastAPI, PostgreSQL, Docker, Kubernetes |
+| [Time-Series Stock Analysis](https://github.com/harveenkaur282-web/Data-Driven-Stock-Analysis-using-Time-Series-Models-on-StockGro) | NSE stock analysis and forecasting pipeline comparing statistical and deep-learning models, with volatility analysis, portfolio construction and a dashboard. | Python, ARIMA, Prophet, LSTM, GRU, Transformers |
+
+## Cloud & AWS Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [AWS Proof-of-Work Portfolio](https://github.com/harveenkaur282-web/AWS_proof_of_work_portfolio) | Dedicated cloud portfolio for AWS infrastructure, serverless projects, deployment documentation and AWS learning. |
+| [Customer Support AI Agent — Bedrock AgentCore](https://github.com/harveenkaur282-web/ai-support-agent) | Deployed agent with order tracking, refunds, RAG, cross-session memory, code execution and browser access; six end-to-end tests documented. Built as part of the Udacity Future AWS Agent Engineer Nanodegree. |
+| [S3 + CloudFront Website Hosting](https://github.com/harveenkaur282-web/Website-Hosting-with-Amazon-S3-and-CloudFront) | Private S3 origin, CloudFront delivery, HTTPS and Origin Access Control. |
+| [AWS Polly Text-to-Speech](https://github.com/harveenkaur282-web/aws-polly-text-to-speech) | Serverless text-to-speech workflow using Lambda and Amazon Polly. |
+| [EC2 Web App Setup Documentation](https://github.com/harveenkaur282-web/AWS_proof_of_work_portfolio) | Hands-on EC2 web-application setup documented in the AWS portfolio repository. |
+| [Multi-Agent E-commerce RAG on AWS](https://github.com/harveenkaur282-web/Multi-Agent-Ecommerce-RAG) | **In progress:** orchestrator and specialist agents, multi-Knowledge-Base RAG, AgentCore, Guardrails and observability. |
+
+### AWS Learning
+- [Getting Started with Amazon Bedrock — AWS Skill Builder](https://skillbuilder.aws/learn/63KTRM86DQ/amazon-bedrock-getting-started/SC2Y3HMAUE)
+- [Fundamentals of Generative AI — AWS Skill Builder](https://skillbuilder.aws/learn/FKXM21R555/fundamentals-of-generative-ai/ZFX96NREH4)
+- **Udacity Future AWS Agent Engineer Nanodegree** — agent engineering work, including the deployed support agent.
+- [Strands Agents + Bedrock AgentCore workshop](https://github.com/harveenkaur282-web/sample-strands-agents-hands-on-workshop) — workshop learning material.
+
+## Hackathon & Challenge Projects
+
+| Project | Result / focus |
+|---|---|
+| [Off-Road Semantic Scene Segmentation](https://github.com/harveenkaur282-web/Semantic-Scene-Segmentation) | Duality AI challenge finalist, among 250+ participants/teams out of 900+. Fine-tuned SegFormer-B2 for pixel-level terrain segmentation; reported test mIoU: **0.5155**. |
+| [Chihuahua vs Muffin — 3LC](https://github.com/harveenkaur282-web/Chihuahua-vs-Muffin-Classification-3LC) | Computer-vision classification project using ResNet-18 and 3LC experiment tracking in a challenge setting. |
+| [Multi-Vehicle Detection — 3LC](https://github.com/harveenkaur282-web/3LC-Multi-Vehicle-detection-challenge) | Computer-vision challenge repository focused on multi-vehicle detection. |
 
 ## Technical Skills
 
-- **Languages:** Python, C++, SQL, Java
-- **Machine Learning:** scikit-learn, PyTorch, TensorFlow/Keras, NumPy, pandas
+- **Languages:** Python, C++, SQL
+- **ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn, NumPy, pandas
 - **LLM Engineering:** RAG, embeddings, vector search, reranking, LLM APIs, agentic workflows
 - **Computer Vision:** Transformers, semantic segmentation, image classification, model evaluation
-- **Cloud & Tools:** AWS (S3, CloudFront, Lambda, IAM, CloudWatch, Bedrock/AgentCore), Docker, Kubernetes, Linux, Git/GitHub, Jupyter, Streamlit, FastAPI
-
-## Open Source Contributions
-
-I contribute to community projects through issue fixes, documentation, and feature work. Selected contributions are listed below.
-
-<!-- OSS_CONTRIBUTIONS_START -->
+- **Cloud & Dev Tools:** AWS (EC2, S3, CloudFront, Lambda, IAM, CloudWatch, Bedrock/AgentCore), Docker, Kubernetes, Linux, Git/GitHub, FastAPI, Streamlit
 
 ## Open-Source Contributions
 
-**[CinderPeak](https://github.com/SharonIV0x86/CinderPeak) (CinderPeak is a fast and efficient, open-source C++ graph library designed to handle directed, undirected, and mixed graphs with customizable vertex and edge types.)**
+Selected contributions to community projects:
 
-* [#195](https://github.com/SharonIV0x86/CinderPeak/pull/195): Increment 5: fix files producing warnings (#190)
-* [#188](https://github.com/SharonIV0x86/CinderPeak/pull/188): Increment 3: fix warnings in files
-* [#187](https://github.com/SharonIV0x86/CinderPeak/pull/187): fix(warnings): Increment 1. Fix Files producing warnings.
+<!-- OSS_CONTRIBUTIONS_START -->
 
-**[National-weather-intelligence](https://github.com/Team-Cerevia/National-weather-intelligence) (National Weather Big Data Analytics Platform: real-time weather-event fusion and verification )**
+**[CinderPeak](https://github.com/SharonIV0x86/CinderPeak)**
+- [#195](https://github.com/SharonIV0x86/CinderPeak/pull/195): Increment 5: fix files producing warnings (#190)
+- [#188](https://github.com/SharonIV0x86/CinderPeak/pull/188): Increment 3: fix warnings in files
+- [#187](https://github.com/SharonIV0x86/CinderPeak/pull/187): Fix files producing warnings
 
-* [#4](https://github.com/Team-Cerevia/National-weather-intelligence/pull/4): docs: split Track D into Track D1 (Backend) & Track D2 (Frontend), ad…
-* [#2](https://github.com/Team-Cerevia/National-weather-intelligence/pull/2): adding folders
-* [#1](https://github.com/Team-Cerevia/National-weather-intelligence/pull/1): adding files for all feature branches+ weather contract they need to …
+**[National-weather-intelligence](https://github.com/Team-Cerevia/National-weather-intelligence)**
+- [#4](https://github.com/Team-Cerevia/National-weather-intelligence/pull/4): Split Track D into backend and frontend
+- [#2](https://github.com/Team-Cerevia/National-weather-intelligence/pull/2): Add folders
+- [#1](https://github.com/Team-Cerevia/National-weather-intelligence/pull/1): Add feature-branch files and weather contract
 
-**[SOUL_SENSE_EXAM](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM) (A questionnare that focuses on user's emotional health and store their results)**
+**[SOUL_SENSE_EXAM](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM)** — [#144](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM/pull/144): Age-based randomized question selection.
 
-* [#144](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM/pull/144): Implement age-based randomized question selection with no-repeat logic
+**[StudyPlan](https://github.com/Charushi06/StudyPlan)** — [#50](https://github.com/Charushi06/StudyPlan/pull/50): Lightweight NLP date extraction.
 
-**[StudyPlan](https://github.com/Charushi06/StudyPlan)**
-
-* [#50](https://github.com/Charushi06/StudyPlan/pull/50): feat: add lightweight NLP module for date extraction from raw text (closes #15) NSoC'26
-
-**[VYOM](https://github.com/Th-Shivam/VYOM) (VYOM (Virtual Yet Omnipotent Machine) is a futuristic AI-powered personal assistant , inspired by J.A.R.V.I.S. from Iron Man.  Designed to simplify your digital life, VYOM uses advanced language models and browser automation to handle complex tasks with simple voice or text commands.)**
-
-* [#42](https://github.com/Th-Shivam/VYOM/pull/42): Centralize configuration for model names and file paths, issue #33 
-
+**[VYOM](https://github.com/Th-Shivam/VYOM)** — [#42](https://github.com/Th-Shivam/VYOM/pull/42): Centralize model names and file paths.
 
 <!-- OSS_CONTRIBUTIONS_END -->
 
@@ -84,7 +90,7 @@ I contribute to community projects through issue fixes, documentation, and featu
 
 <div align="center">
 
-If you're working on something interesting in AI/ML, LLMs, cloud engineering, or open source, feel free to connect.
+If you're building something in AI/ML, agentic systems, software engineering, or cloud engineering, feel free to connect.
 
 **[github.com/harveenkaur282-web](https://github.com/harveenkaur282-web)**
 
