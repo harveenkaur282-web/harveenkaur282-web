@@ -4,7 +4,7 @@
 
 **B.Tech CSE (AI/ML) | Amity University, Noida (2024–2028)**
 
-I build practical AI systems and software, from RAG and agentic applications to deep-learning projects and cloud deployments. Currently exploring **AI/ML Engineering, Software Engineering, and AWS Cloud/Cloud-AI**.
+I build practical AI systems and software, from RAG and agentic applications to deep-learning projects and cloud deployments. Currently exploring **AI/ML Engineering, Software Engineering, and AWS roles**.
 
 [LinkedIn](https://www.linkedin.com/in/harveen-k-ab8347355) · [GitHub Repositories](https://github.com/harveenkaur282-web?tab=repositories) · [AWS Portfolio](https://github.com/harveenkaur282-web/AWS_proof_of_work_portfolio)
 
