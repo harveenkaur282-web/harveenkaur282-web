@@ -35,7 +35,6 @@ I build practical AI systems and software, from RAG and agentic applications to 
 - [Getting Started with Amazon Bedrock — AWS Skill Builder](https://skillbuilder.aws/learn/63KTRM86DQ/amazon-bedrock-getting-started/SC2Y3HMAUE)
 - [Fundamentals of Generative AI — AWS Skill Builder](https://skillbuilder.aws/learn/FKXM21R555/fundamentals-of-generative-ai/ZFX96NREH4)
 - **Udacity Future AWS Agent Engineer Nanodegree** — agent engineering work, including the deployed support agent.
-- [Strands Agents + Bedrock AgentCore workshop](https://github.com/harveenkaur282-web/sample-strands-agents-hands-on-workshop) — workshop learning material.
 
 ## Hackathon & Challenge Projects
 
